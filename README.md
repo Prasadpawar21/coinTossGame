@@ -1,6 +1,7 @@
 Description : Built a CoinToss app by applying the concepts by applying the concepts of react js such as "Multi-State-Components" , "functional" and "class" Componets , using ternary operators for image filtering , react states (controlled and uncontrolled) , react props , javascript onclick() event , basics of javascript , flexbox and Media query , HTML/CSS , etc .
 
-<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/be27be64-2364-434b-84b8-a6e5a2bca4a2" />
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/d09e4a9b-182b-4c1a-9c0a-3f23011cc2ce" />
+
 
 Functionality : The app have the following functionalities -
 
@@ -10,4 +11,4 @@ Functionality : The app have the following functionalities -
 4. When the Toss Coin is clicked, and the result is heads then : the heads image should be displayed , the heads count should be incremented by one , the total should be incremented by one .
 5. When the Toss Coin is clicked, and the result is tails then : the tails image should be displayed , the tails count should be incremented by one ,the total should be incremented by one.
 
-Deployment : https://prasad510.ccbp.tech/
+Deployment : https://prasad513.ccbp.tech/

@@ -1,18 +1,13 @@
-# React + Vite
+Description : Built a CoinToss app by applying the concepts by applying the concepts of react js such as "Multi-State-Components" , "functional" and "class" Componets , using ternary operators for image filtering , react states (controlled and uncontrolled) , react props , javascript onclick() event , basics of javascript , flexbox and Media query , HTML/CSS , etc .
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/be27be64-2364-434b-84b8-a6e5a2bca4a2" />
 
-Currently, two official plugins are available:
+Functionality : The app have the following functionalities -
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+1. Initially, the app should have heads image and total, heads, tails counts as 0.
+2. When the Toss Coin button is clicked, then the toss result should be generated using the below expression : const tossResult = Math.floor(Math.random() * 2) .
+3. If the number generated from the given expression is 0 then the result should be heads or else the result should be tails.
+4. When the Toss Coin is clicked, and the result is heads then : the heads image should be displayed , the heads count should be incremented by one , the total should be incremented by one .
+5. When the Toss Coin is clicked, and the result is tails then : the tails image should be displayed , the tails count should be incremented by one ,the total should be incremented by one.
 
-## React Compiler
-
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Deployment : https://prasad510.ccbp.tech/

@@ -1,0 +1,69 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  margin: 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.toss-image {
+  height: 200px;
+  width: 200px;
+  background-size: cover;
+}
+
+.sub-container {
+  padding: 60px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.counts-container {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.button {
+  padding: 10px;
+  border-radius: 6px;
+  background-color: #f9d423;
+  color: #a35200;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.para {
+  color: #475569;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.heading {
+  color: #a35200;
+  font-size: 30px;
+  font-weight: 500;
+  padding: 0px;
+}
+
+.para1 {
+  color: #334155;
+  font-size: 20px;
+}
